@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "April \u2665 Greg"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Greg Wilbur"
+description              : "Our wedding website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -26,6 +26,11 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
+
+defaults:
+  - values:
+      sidebar:
+        nav: main
 
 # SEO Related
 google_site_verification :
@@ -61,10 +66,10 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             :
+  avatar           :
+  bio              :
+  location         :
   email            :
   uri              :
   bitbucket        :
