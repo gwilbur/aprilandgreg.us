@@ -1,6 +1,22 @@
 # main links links
 main:
+  - title: "Engagement"
+    url: /engagement/
   - title: "Booking Info"
-    url: /booking-info/
+    url: /hotel-info/
+    children:
+      - title: "Hotel Info"
+        url: /hotel-info/
+      - title: "Room Info"
+        url: /room-info/
+      - title: "Book Now"
+        url: /book-now/
   - title: "Travel Info"
-    url: /travel-info/
+    url: /zika-virus/
+    children:
+      - title: "Zika Virus"
+        url: /zika-virus/
+      - title: "Passports"
+        url: /passports/
+      - title: "Election Day"
+        url: /election-day/
