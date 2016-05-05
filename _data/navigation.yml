@@ -3,20 +3,22 @@ main:
   - title: "Engagement"
     url: /engagement/
   - title: "Booking Info"
-    url: /hotel-info/
+    url: /book-now/
     children:
+      - title: "Book Now"
+        url: /book-now/
       - title: "Hotel Info"
         url: /hotel-info/
       - title: "Room Info"
         url: /room-info/
-      - title: "Book Now"
-        url: /book-now/
   - title: "Travel Info"
-    url: /zika-virus/
+    url: /passports/
     children:
-      - title: "Zika Virus"
-        url: /zika-virus/
       - title: "Passports"
         url: /passports/
+      - title: "Zika Virus"
+        url: /zika-virus/
       - title: "Election Day"
         url: /election-day/
+  - title: "Registry"
+    url: /registry/

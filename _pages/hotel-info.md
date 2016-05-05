@@ -6,8 +6,8 @@ header:
   image: hotel-info-header.jpg
 ---
 
-Welcome to the [Iberostar Grand Hotel Paraiso](http://bit.ly/1eb5g81) in
-beautiful Playa del Carmen, Mexico! We recently spent four nights here to
+Welcome to the [Iberostar Grand Hotel Paraiso](http://www.thegrandcollection.com/en/hotels/riviera-maya/iberostar-grand-hotel-paraiso/introduction)
+in beautiful Playa del Carmen, Mexico! We recently spent four nights here to
 celebrate our engagement and we liked it so much we decided to get married
 there! Here's some information about the resort:
 

@@ -1,0 +1,3 @@
+url: http://athena:4000
+analytics:
+  provider: false
