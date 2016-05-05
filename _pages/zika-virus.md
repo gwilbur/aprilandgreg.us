@@ -24,7 +24,7 @@ introduction:
   defects, such as microcphaly.
 
 Now this may all sound very ominous, but rest assured, this will have no effect
-on our wedding. As long as the situation doesn't get much worse, we're going to
+on our wedding. So far there have been no confirmed cases of zika in the state of Quintana Roo, and as long as the situation doesn't get much worse, we're still going to
 be there having the time of our lives, and we would love for you to join us.
 Still, if you feel that you can't risk your health, we will miss you, but we
 understand if you can't make it.
