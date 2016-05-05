@@ -22,13 +22,13 @@ row_2:
     excerpt: >
       Welcome to *Iberostar Grand Hotel Paraiso* in beautiful Playa del Carmen,
       Mexico!
-    url: /hotel-info/
+    url: /book-now/
 row_3:
   - image_path: travel-info.jpg
     title: Travel Info
     excerpt: >
       Everything you need to know before you depart.
-    url: /zika-virus/
+    url: /passports/
 ---
 
 {% include feature_row id="row_1" type="left" %}
