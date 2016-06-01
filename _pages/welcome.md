@@ -9,6 +9,7 @@ header:
 excerpt: >
   Hola! You made it to our Website! Here you'll find everything you should need
   to have a great time with us celebrating our love for each other in Mexico.
+  Make a deposit by July 15th to get our discounted rate.
 row_1:
   - image_path: engagement-header.jpg
     title: Our Engagement Story
