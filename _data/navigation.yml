@@ -4,6 +4,7 @@ main:
     url: /engagement/
   - title: "Event Info"
     url: /schedule/
+    children:
       - title: "Schedule"
         url: /schedule/
   - title: "Booking Info"
