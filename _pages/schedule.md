@@ -32,7 +32,7 @@ Relax with cocktails, hors d'oeuvres, and excellent company by the pool.
 {: .text-center}
 
 Celebrate with us the only way we know how: good food and great dancing at La
-Brisa.
+Brisa. Make sure you stop by the photobooth!
 {: .text-center}
 
 ### 11:00 PM
