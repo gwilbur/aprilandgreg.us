@@ -2,6 +2,10 @@
 main:
   - title: "Engagement"
     url: /engagement/
+  - title: "Event Info"
+    url: /schedule/
+      - title: "Schedule"
+        url: /schedule/
   - title: "Booking Info"
     url: /book-now/
     children:
