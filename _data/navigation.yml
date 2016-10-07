@@ -7,6 +7,8 @@ main:
     children:
       - title: "Schedule"
         url: /schedule/
+      - title: "Tips"
+        url: /tips/
   - title: "Booking Info"
     url: /book-now/
     children:

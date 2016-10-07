@@ -10,7 +10,7 @@ permalink: /schedule/
 {: .text-center}
 
 We welcome you to join us at Haiku Japanese Restaurant for a Teppanyaki style
-dinner and a show.
+dinner.
 {: .text-center}
 
 ## Saturday November 5th
@@ -39,5 +39,5 @@ Brisa.
 {: .text-center}
 
 Such a special night can't end so early! Keep the party going well into the
-night at the Galaxy Disco.
+night at the Galaxy Discotheque.
 {: .text-center}
