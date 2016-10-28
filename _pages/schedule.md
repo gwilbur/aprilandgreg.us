@@ -9,8 +9,8 @@ permalink: /schedule/
 ### 8:30 PM
 {: .text-center}
 
-We welcome you to join us at Haiku Japanese Restaurant for a Teppanyaki style
-dinner.
+We welcome you to join us at Haiku Japanese Restaurant for a casual Teppanyaki
+style dinner.
 {: .text-center}
 
 ## Saturday November 5th
@@ -19,7 +19,7 @@ dinner.
 {: .text-center}
 
 Enjoy the sandy beach while we say our vows to each other and begin our
-marriage together. Shoes optional.
+marriage together. Attire is beach-formal.
 {: .text-center}
 
 ### 6:00 PM
