@@ -4,8 +4,8 @@ layout: splash
 permalink: /
 header:
   overlay_image: splash.jpg
-  cta_label: Book Now!
-  cta_url: /book-now/
+  cta_label: Schedule of Events
+  cta_url: /schedule/
 excerpt: >
   Hola! You made it to our Website! Here you'll find everything you should need
   to have a great time with us celebrating our love for each other in Mexico.
